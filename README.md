@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tyrx-code
 - 👀 I’m interested in Software Development, Cloud Computing and Testing.
-- 🌱 I’m currently learning Python... 
+- 🌱 I’m currently learning Kotlin and TS... 
 
 
 <!---
